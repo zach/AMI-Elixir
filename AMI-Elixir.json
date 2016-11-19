@@ -82,7 +82,7 @@
 				}
 			},
 			"Properties" : {
-				"ImageId" : "ami-bb6832de",
+				"ImageId" : "ami-85ecc192",
 				"InstanceType" : { "Ref" : "EC2Size" },
 				"KeyName" : { "Ref" : "keyName" },
 				"Tags" : [
